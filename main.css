@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    size: 30px;
+}
+
+
+
+header{
+    font-size: 50px;
+}
+
+footer h3{
+    width: 100;
+    text-align: center;
+}
+
+#main-section{
+    margin-left: 50px;
+    width: 70%;
+    border: 10px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#main-section article{
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+#sidenav{
+    float:right;
+    width: 20%;
+    display: inline-block;
+    margin-top: 
+}
